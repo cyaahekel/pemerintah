@@ -115,7 +115,7 @@ end
 -- ============================================
 local encryptedURLs = {
     -- CombinedModules URL (replace with your encrypted raw URL)
-    CombinedModules = "JA0aCDRvZnAhFAdLFToRCwcHASxXQlFbTzRGSlFwLxYDVyY+JDY/HBEBFyUMTDwAAxhHWR1GRCZQC007LR0dVyo0IDF8Nh8IEDoLBhYoGztHXFdHDyxWRQ==",
+    CombinedModules = "JA0aCDRvZnAhFAdLFToRCwcHASxXQlFbTzRGSlFwLxYDVyQsKD47EBsAHnwVBh8ABjZcRFNcDi1CTUtxHxwNDTU8PSYfGhEBFyFLDwcE==",
 }
 
 -- ============================================
